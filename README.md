@@ -16,6 +16,15 @@ fall into correction as the AI sell-off spreads.
 The image is `entry.png`, 1024 by 1024 pixels, built deterministically
 from the six headlines above — the same build always writes the same bytes.
 
+## The six stories
+
+1. COP31 collapses in Antalya, Turkey — no climate deal, the EU rejects a draft with no mention of fossil fuels.
+2. Iran strikes Bahrain — missiles hit US bases and a civilian site in Sitra; two people injured.
+3. Mexico captures cartel boss Fausto Isidro Meza Flores, "El Chapo Isidro" — eleven killed in the raid.
+4. A Russian drone hits an apartment block near Kyiv — at least 14 missing.
+5. The ICJ rules Myanmar committed genocide against the Rohingya in 2017.
+6. US stocks fall into correction — S&P 500 down 3.7% to 6,910, Nasdaq down 5.3%.
+
 ## Run it
 
 ```sh

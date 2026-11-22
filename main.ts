@@ -6,7 +6,9 @@
 // a Russian drone hits an apartment block near Kyiv, the ICJ rules Myanmar committed
 // genocide against the Rohingya, and US stocks fall into correction. The gate takes
 // a whole PNG or JPEG of at most 1 MiB and 1024 by 1024 pixels, and the judge sees
-// exactly the bytes copied.
+// exactly the bytes copied. The image itself is deterministic: it was drawn
+// once from the six headlines and is copied byte-for-byte, so two runs of
+// this program write identical entry.png files.
 //
 // Outside the grader's container, MAKEFUN_OUTPUT_DIR stands in for /output:
 //   mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
